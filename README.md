@@ -1,37 +1,55 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/paigeconverse/heckin-cute/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<!DOCTYPE HTML>
+<HTML>
+   <HEAD>
+      <TITLE>Dave Brockie AKA Oderus Urungus</TITLE>
+<style>
 
-### Markdown
+#main {
+}
+body {background-color: grey;
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+}
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+h1 {color: black;
+font-weight: bold;
+font-size: 60px;
+text-align: center;
+font-family: 'Lacquer', sans-serif;}
 
-- Bulleted
-- List
+h2 {color: red;
+font-size: 70px;
+text-align:left;
+font-family: 'Creepster', cursive;};
+</style>
+   </HEAD>
+   <BODY>
+<main>
+<link href="https://fonts.googleapis.com/css?family=Lacquer&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Creepster&display=swap" rel="stylesheet">
+<h1>Dave Brockie, AKA Oderus Urungus</h1>
+<h2>1963-2014</h2>
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+<div class="row">
+  <div class="column">
+    <img src="https://www.nydailynews.com/resizer/FKnoxpIqSeI7lQKWxYGMX8DNBco=/800x531/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/GFIXXJ6CMOXHD3TG22USD3TCMY.jpg" alt="Dave Brockie in character as Oderus" height="142" width="242">
+    </div>
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+  <div class="column">
+    <img src="https://api.time.com/wp-content/uploads/2014/06/ap574994322897.jpg" alt="Dave Brockie poses for a photo" height="142" width="242">
+  </div>
+  </div>
+    
+  </div>
+ 
+ </main>     
+   </BODY>
+</HTML>
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/paigeconverse/heckin-cute/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
